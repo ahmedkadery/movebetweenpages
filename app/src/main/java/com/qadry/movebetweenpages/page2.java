@@ -22,4 +22,5 @@ public class page2 extends AppCompatActivity {
         Intent intenttopage3=new Intent(page2.this,page3.class);
         startActivity(intenttopage3);
     }
+
 }
