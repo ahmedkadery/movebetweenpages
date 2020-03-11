@@ -24,7 +24,7 @@ public class page3 extends AppCompatActivity {
         startActivity(intenttopgae2);
     }
     public void btn_page4(View View) {
-        Intent intenttopage5 = new Intent(page3.this, page4.class);
+        Intent intenttopage5 = new Intent(page3.this, page_4.class);
         startActivity(intenttopage5);
     }
 }
